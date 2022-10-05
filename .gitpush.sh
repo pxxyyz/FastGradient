@@ -5,4 +5,4 @@ set -e
 
 git add -A
 git commit -m 'update-dev'
-git push -f git@github.com:pxxyyz/Accelerating-HeteroPCA.git
+git push -f git@github.com:pxxyyz/FastGradient.git
