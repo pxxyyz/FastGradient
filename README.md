@@ -3,17 +3,8 @@
 This Matlab implements for Low-Rank Estimations by Fast Gradient Descent.
 
 - **Folder** `demo-matrix` includes codes for Low-Rank Matrix Estimation.
-  - corresponding to the paper "Fast gradient method for Low-Rank Matrix Estimation". 
-- **Folder** `fig` stores the image results after running the program, including `.eps` format and `.png` format.
-
-
+  - corresponding to the paper "Fast gradient method for Low-Rank Matrix Estimation" by Hongyi Li, Zhen Peng, Chengwei Pan, Di Zhao (https://arxiv.org/abs/2211.16236).
 
 ---
 
-Copyright (C) 2022
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/
+For any questions on the source code or the paper, please contact pxxyyz@gmail.com.
